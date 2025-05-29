@@ -1,0 +1,10 @@
+names:
+- Ambulance
+- Bus
+- Car
+- Motorbike
+- Truck
+nc: 5
+path: C:/Users/dungv/Object-Detection/dataset
+train: train/images
+val: test/images
